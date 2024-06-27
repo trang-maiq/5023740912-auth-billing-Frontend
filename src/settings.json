@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "TechCon 2025 is on September 15 – 17 in New York City.",
+        "linkText": "Secure your spot"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Inspiration and Insights to Elevate Your Knowledge",
+        "title": "Yay: Lighting Up Your Tech Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Inspiration and Insights to Elevate Your Knowledge",
+        "title": "Yay: Lighting Up Your Tech Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Inspiration and Insights to Elevate Your Knowledge",
+        "title": "Yay: Lighting Up Your Tech Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Inspiration and Insights to Elevate Your Knowledge",
+        "title": "Yay: Lighting Up Your Tech Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Inspiration and Insights to Elevate Your Knowledge",
+        "title": "Yay: Lighting Up Your Tech Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Inspiration and Insights to Elevate Your Knowledge",
+        "title": "Yay: Lighting Up Your Tech Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Inspiration and Insights to Elevate Your Knowledge",
+        "title": "Yay: Lighting Up Your Tech Journey"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Lighting Up Your Tech Journey",
+  "subtitle": "Inspiration and Insights to Elevate Your Knowledge"
+}
